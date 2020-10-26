@@ -1,7 +1,7 @@
 # Swift
 
 <p align="center">
-  <img src="assets/readmeswift.png" />
+  <img src="https://githib.com/Andrea-Dispe/Swift-server/assets/readmeswift.png" />
 </p>
 
 Meet Swift. Fast video meetings made simple.
